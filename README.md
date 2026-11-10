@@ -14,9 +14,18 @@ National Elite Institute of Engineering, Chongqing University
 I am an undergraduate student at **Chongqing University**, enrolled in 2024 at the
 **National Elite Institute of Engineering** (重庆大学国家卓越工程师学院).
 
-My interests are in **efficient inference systems for large language models**: mixture-of-experts
-(MoE) offloading, GPU–CPU hybrid execution, and KV cache management — the engineering side of
-making very large models run on hardware people actually have.
+My interests span four areas:
+
+- **Efficient inference** — KV cache design and long-context attention, i.e. what a model
+  actually needs to attend to when the context gets long.
+- **Generative modeling** — image generation and autoregressive generative models.
+- **LLM agents & tooling** — agent memory, long-horizon task execution, and the harnesses
+  that make them work in practice.
+- **Efficient architectures** — mixture-of-experts (MoE) offloading and GPU–CPU hybrid
+  execution: the engineering side of making very large models run on hardware people actually have.
+
+Most of this work lives in private repos and in projects not yet published, so the public
+repos below are only a slice of it.
 
 ## Projects
 
