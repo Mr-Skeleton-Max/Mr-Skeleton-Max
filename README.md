@@ -11,7 +11,7 @@ Chongqing University · Chongqing, China
 
 ## About
 
-I am an undergraduate student at **Chongqing University**, enrolled in 2024 at the College of Excellence in Engineering (卓越工程师学院).
+I am an undergraduate student at **Chongqing University** (重庆大学), 2024 intake, studying in 卓越工程师学院.
 
 My interests are in **efficient inference systems for large language models**: mixture-of-experts (MoE) offloading, GPU–CPU hybrid execution, and KV cache management — the engineering side of making very large models run on hardware people actually have.
 
