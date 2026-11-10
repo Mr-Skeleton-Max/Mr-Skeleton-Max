@@ -1,8 +1,8 @@
 # Yuyue Li · 李宇越
 
 **Undergraduate Student** (2024 intake)
-Chongqing University · Chongqing, China
-重庆大学 卓越工程师学院 2024 级本科生
+National Elite Institute of Engineering, Chongqing University
+重庆大学国家卓越工程师学院
 
 📧 [20242803@stu.cqu.edu.cn](mailto:20242803@stu.cqu.edu.cn)
 🌐 [mr-skeleton-max.github.io](https://mr-skeleton-max.github.io)
@@ -11,9 +11,12 @@ Chongqing University · Chongqing, China
 
 ## About
 
-I am an undergraduate student at **Chongqing University** (重庆大学), 2024 intake, studying in 卓越工程师学院.
+I am an undergraduate student at **Chongqing University**, enrolled in 2024 at the
+**National Elite Institute of Engineering** (重庆大学国家卓越工程师学院).
 
-My interests are in **efficient inference systems for large language models**: mixture-of-experts (MoE) offloading, GPU–CPU hybrid execution, and KV cache management — the engineering side of making very large models run on hardware people actually have.
+My interests are in **efficient inference systems for large language models**: mixture-of-experts
+(MoE) offloading, GPU–CPU hybrid execution, and KV cache management — the engineering side of
+making very large models run on hardware people actually have.
 
 ## Projects
 
@@ -27,4 +30,4 @@ My interests are in **efficient inference systems for large language models**: m
 - **GitHub:** [@Mr-Skeleton-Max](https://github.com/Mr-Skeleton-Max)
 - **Homepage:** [mr-skeleton-max.github.io](https://mr-skeleton-max.github.io)
 
-<sub>重庆大学 · 卓越工程师学院 · 2024 级本科生 · 李宇越</sub>
+<sub>National Elite Institute of Engineering, Chongqing University · 重庆大学国家卓越工程师学院 · 2024 级本科生 · 李宇越</sub>
